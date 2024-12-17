@@ -5,7 +5,7 @@
 supports RSA and SRP ciphersuites. TLS Lite is pure python, however it can use
 other libraries for faster crypto operations. TLS Lite integrates with several
 stdlib neworking libraries.
-
+    
 API documentation is available in the 'docs' directory.
 
 If you have questions or feedback, feel free to contact me.
